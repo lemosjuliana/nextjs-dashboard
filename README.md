@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+# 430-Assigned-Tutorials
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Description
+This repository contains the assigned tutorials for the 430 Full-Stack Development class. For additional learning resources, please visit [Next.js Foundations course](https://nextjs.org/learn/dashboard-app).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Contact Information
+For any questions or further information, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/juliana-lemos-588692206/).
